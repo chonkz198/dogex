@@ -1,0 +1,69 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-image: url('doge1.jpg');
+    background-repeat: repeat;
+    background-size: 100%;
+    color: #333;
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    background-color: none;
+    color: #fff;
+    text-align: center;
+    padding: 20px;
+}
+
+header h1 {
+    font-size: 10em;
+    margin: 0;
+}
+
+section {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background-color: rgba(255, 255, 255, 0.7);
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+}
+
+section h2 {
+    color: #c3a77e;
+}
+
+ul {
+	display:flex;
+    list-style-type: none;
+    padding: 0;
+}
+
+ul li {
+	padding: 10px;l
+	font-size: 24px;
+    margin-bottom: 10px;
+}
+
+a {
+    color: #0080ff;
+    text-decoration: none;
+}
+
+a:hover {
+    text-decoration: underline;
+}
+
+footer {A
+    background-color: #c3a77e, 0.95;
+    color: #fff;
+    text-align: center;
+    padding: 10px;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+}/* CSS Document */
+
+p {
+	font-size: 48p
+}
